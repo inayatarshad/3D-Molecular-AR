@@ -1,0 +1,12 @@
+torch
+torchvision
+rdkit
+pubchempy
+datasets
+numpy
+pandas
+rembg
+requests
+pillow
+tqdm
+opencv-python
